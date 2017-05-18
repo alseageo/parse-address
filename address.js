@@ -233,6 +233,7 @@
     lodg        : "ldg",
     lodge       : "ldg",
     loops       : "loop",
+    lp          : "loop",
     manor       : "mnr",
     manors      : "mnrs",
     meadow      : "mdw",
