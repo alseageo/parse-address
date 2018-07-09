@@ -53,6 +53,7 @@
     bottm       : "btm",
     bottom      : "btm",
     bl          : "blvd",
+    blv         : "blvd",
     boul        : "blvd",
     boulevard   : "blvd",
     boulv       : "blvd",
